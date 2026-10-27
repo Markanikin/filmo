@@ -1,3 +1,4 @@
+import 'tui-pagination/dist/tui-pagination.css';
 import Pagination from 'tui-pagination';
 
 const API_KEY = '154a9aaa';
